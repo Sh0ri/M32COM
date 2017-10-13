@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "targets": {
     ".NETCoreApp,Version=v1.1": {
       "Libuv/1.9.1": {
@@ -9770,23 +9770,41 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dasilvaq\\.nuget\\packages\\": {}
+    "C:\\Users\\Shori\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "c:\\users\\dasilvaq\\documents\\visual studio 2017\\Projects\\M32COM\\M32COM\\M32COM.csproj",
+      "projectUniqueName": "C:\\Users\\Shori\\Documents\\GitHub\\M32COM\\M32COM\\M32COM.csproj",
       "projectName": "M32COM",
-      "projectPath": "c:\\users\\dasilvaq\\documents\\visual studio 2017\\Projects\\M32COM\\M32COM\\M32COM.csproj",
-      "outputPath": "c:\\users\\dasilvaq\\documents\\visual studio 2017\\Projects\\M32COM\\M32COM\\obj\\",
+      "projectPath": "C:\\Users\\Shori\\Documents\\GitHub\\M32COM\\M32COM\\M32COM.csproj",
+      "packagesPath": "C:\\Users\\Shori\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Shori\\Documents\\GitHub\\M32COM\\M32COM\\obj\\",
       "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Shori\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {}
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {

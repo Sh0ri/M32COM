@@ -1,0 +1,12 @@
+
+Midlands Fly est une petite compagnie aérienne avec une flotte d'avions de passagers et de fret. Chaque avion est identifié par un
+numéro d'enregistrement unique composé de 3 chiffres et de 3 lettres. Un avion cargo a un transport maximum
+capacité exprimée en tonnes métriques et chaque avion de passagers a une capacité maximale de places assises. le
+la compagnie aérienne enregistre le nombre total d'heures de vol pour chaque aéronef.
+Les employés de Midlands Fly sont classés soit comme équipage du poste de pilotage, soit comme équipage de cabine, soit comme équipage au sol. La compagnie aerienne
+enregistre le nom de chaque employé et attribue à chacun un numéro d'employé unique à cinq chiffres. Pour
+l'équipage de cabine et l'équipage du poste de pilotage, la compagnie aérienne enregistre également le nombre total d'heures de vol. Pour l'équipe au sol
+leur historique de maintenance est enregistré.
+L'affectation de l'équipage à l'avion prend la forme suivante. Chaque avion cargo est affecté à 3 équipages de pilotage.
+Chaque aéronef de passager se voit attribuer 2 postes de pilotage et 3 équipages de cabine. A la fin d'un vol, les heures de vol de l'avion et de l'équipage sont mises à jour automatiquement. Chaque avion est automatiquement attribué 5 au sol
+équipage après 200 heures de vol pour une période d'entretien de 24 heures.

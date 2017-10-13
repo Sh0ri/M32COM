@@ -1,0 +1,11 @@
+Midlands Fly is a small airline with a fleet of passenger and cargo aircraft. Each aircraft is identified by a
+unique registration number consisting of 3 digits and 3 letters. A cargo aircraft has a maximum carrying
+capacity expressed in metric tons and each passenger aircraft has a maximum seating capacity. The
+airline records the total number of flying hours for each aircraft.
+Employees of Midlands Fly are classed as either flight-deck crew, cabin crew or ground crew. The airline
+records the name of each employee and assigns to each one a unique 5 digit employee number. For
+both cabin crew and flight-deck crew the airline also records their total flying hours. For ground crew
+their aircraft maintenance history is recorded.
+Crew allocation to aircraft takes the following form. Each cargo aircraft is assigned 3 flight-deck crew.
+Each passenger aircraft is assigned 2 flight-deck and 3 cabin crew. At the end of a flight the flying hours of the aircraft and the crew are updated automatically. Each aircraft is automatically assigned 5 ground
+crew after 200 flying hours for a 24 hour period of maintenance. 
